@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "CommonJS",
+    "lib": [
+      "ES2019",
+      "DOM"
+    ],
+    "outDir": "dist",
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "exclude": [
+    "cdk.out"
+  ]
+}

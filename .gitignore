@@ -1,0 +1,9 @@
+# MacOS specific
+._*
+.DS_Store
+
+# Project specific
+cdk.out/
+dist/
+node_modules/
+cdk.context.json
